@@ -23,11 +23,10 @@ Maka, Step Terakhir adalah hanya perlu menaruh TOKEN Didalam Config.json
 Config.json bot ini berisi seperti ini 
 ```json
 {
-  "BOT_TOKEN": "TOKEN HERE", // get ur discord token on discord.com/developers/application
-  "PREFIX": "s!", // You may not change the prefix. it will causing some features error
-  "everyoneMention": true, // Don't change this
-  "hostedBy": true, // this too don't change it
-}
+  "BOT_TOKEN": "TOKEN HERE",
+  "PREFIX": "s!", //Jangan Diganti nnti error
+  "everyoneMention": true,
+  "hostedBy": true,
 ```
 
 Setelah Memasukan Bot, Anda buka lagi CMD nya, dan Hanya perlu node index.js didalam folder yang sudah kamu tentukan tadinya
