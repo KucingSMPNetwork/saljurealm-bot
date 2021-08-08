@@ -1,0 +1,8 @@
+{
+  "admin": [
+       "`addrole`, `removerole`, `rename`, `backup`, `kick`, `ban`, `unban`, `softban`, `warn`, `check-warns`, `clear-warns`, `mute`, `unmute`, `tempmute`, `purge`, `say`, `text`, `vote`, `giveaways`, `ticket`"
+    ],
+  "general": [
+       "`invites`, `topinvites`, `stats`, `serverinfo`, `userinfo`, `ping`, `uptime`"
+    ]
+}
