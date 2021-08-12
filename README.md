@@ -4,7 +4,7 @@ SaljuRealm Bot adalah Bot yang diciptakan Zyang & OrangeCat2528 Untuk Memudahkan
 
 ## Instalasi
 
-Anda Tidak perlu lagi NPM Install Untuk Menginstall Bot ini Karena Package DiscordJS kami Sudah mai Kustomisasi
+Anda Tidak perlu lagi NPM Install Untuk Menginstall Bot ini Karena Package DiscordJS kami Sudah kami Kustomisasi
 
 ## Penggunaan Instalasi
 
